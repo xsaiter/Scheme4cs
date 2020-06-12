@@ -1,0 +1,3 @@
+[submodule "Sub/Zoo"]
+	path = Sub/Zoo
+	url = https://github.com/xsaiter/Zoo.git
